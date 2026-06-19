@@ -48,9 +48,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 ### Lección 5: Creación de una página web personal (15 minutos)
 
 - **Descripción**: Integra HTML y CSS para construir una página de perfil personal con nombre, descripción, imagen, intereses y enlaces.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-5)
+- **Enlace**: [Ver lección]([https://www.youtube.com/watch?v=example-link-5](https://youtu.be/5mpAlzYGW6A))
 - **Consejos clave**: El proyecto final combina estructura, contenido y estilo.
-- **Proyecto final**: [Crear página de perfil en Replit](https://replit.com/)
+- **Proyecto final**: [Crear página de perfil en CodePen](https://codepen.io/pen/)
 
 ### Lección 6: Recomendaciones y errores comunes (8 minutos)
 
