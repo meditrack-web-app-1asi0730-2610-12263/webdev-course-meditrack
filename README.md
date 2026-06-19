@@ -1,56 +1,202 @@
 # Fundamentos de Desarrollo Web
 
-Curso introductorio de desarrollo web para estudiantes de secundaria. El objetivo es que cualquier estudiante pueda crear una página web personal usando HTML y CSS, sin instalar programas y trabajando solo desde el navegador.
+## Resumen del Curso
 
-## Información general
+Este curso introduce a estudiantes de secundaria a los fundamentos del desarrollo web mediante la creación de una página web sencilla con HTML y CSS. El contenido está pensado para principiantes, por lo que se usan explicaciones simples, ejemplos visuales y actividades cortas de práctica.
 
-- **Duración total:** aproximadamente 60 minutos
-- **Público objetivo:** estudiantes de 12 a 17 años sin experiencia previa en programación
-- **Prerequisitos:** ninguno
-- **Herramientas:** navegador web, CodePen, JSFiddle o Replit
-- **Repositorio:** https://github.com/meditrack-web-app-1asi0730-2610-12263/webdev-course-meditrack
+**Duración total**: ~60 minutos  
+**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia previa en programación  
+**Prerrequisitos**: Ninguno  
+**Herramientas necesarias**: Solo un navegador web actualizado (Chrome, Firefox, Safari o Edge)  
+**Modalidad**: Videos cortos de YouTube no listados y prácticas en editores online  
+**Repositorio de código fuente**: [webdev-course-meditrack](https://github.com/meditrack-web-app-1asi0730-2610-12263/webdev-course-meditrack)
 
-## Secuencia de lecciones
+> Este curso no requiere instalar programas. Todas las actividades se realizan usando herramientas gratuitas en línea como CodePen, JSFiddle o Replit.
 
-| # | Lección | Duración sugerida | Práctica |
-|---|---|---:|---|
-| 1 | ¿Qué es el desarrollo web? | 8 min | Explorar una página HTML simple |
-| 2 | Primera estructura HTML | 10 min | Crear encabezados y párrafos |
-| 3 | Elementos HTML comunes | 10 min | Agregar listas, enlaces e imágenes |
-| 4 | Introducción a CSS | 12 min | Aplicar colores, fuentes y bordes |
-| 5 | Página web personal | 15 min | Construir una página de perfil |
-| 6 | Errores comunes y próximos pasos | 5 min | Revisar checklist final |
+---
 
-## Estructura del repositorio
+## Secuencia de Lecciones
+
+### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+
+- **Descripción**: Presenta qué es un sitio web y explica la diferencia entre contenido, estructura y estilo.
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-1)
+- **Consejos clave**: Un sitio web combina contenido, estructura HTML y estilos CSS.
+- **Empieza a practicar**: [Abrir práctica en CodePen](https://codepen.io/pen/)
+
+### Lección 2: Estructura básica de HTML (10 minutos)
+
+- **Descripción**: Explica la estructura básica de una página HTML y el uso de etiquetas principales.
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-2)
+- **Consejos clave**: Una página HTML se organiza con etiquetas como `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
+- **Práctica**: [Crear primera página HTML](https://codepen.io/pen/)
+
+### Lección 3: Elementos HTML comunes (10 minutos)
+
+- **Descripción**: Muestra cómo agregar encabezados, párrafos, listas, imágenes y enlaces.
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-3)
+- **Consejos clave**: Las etiquetas HTML permiten organizar el contenido y agregar elementos interactivos básicos.
+- **Práctica**: [Practicar elementos HTML](https://jsfiddle.net/)
+
+### Lección 4: Introducción a CSS (12 minutos)
+
+- **Descripción**: Introduce el uso de CSS para cambiar colores, fuentes, bordes y espaciados.
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-4)
+- **Consejos clave**: CSS permite modificar la apariencia visual de una página web.
+- **Práctica**: [Aplicar estilos con CSS](https://codepen.io/pen/)
+
+### Lección 5: Creación de una página web personal (15 minutos)
+
+- **Descripción**: Integra HTML y CSS para construir una página de perfil personal con nombre, descripción, imagen, intereses y enlaces.
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-5)
+- **Consejos clave**: El proyecto final combina estructura, contenido y estilo.
+- **Proyecto final**: [Crear página de perfil en Replit](https://replit.com/)
+
+### Lección 6: Recomendaciones y errores comunes (8 minutos)
+
+- **Descripción**: Revisa errores frecuentes al iniciar en HTML y CSS, además de recomendaciones para seguir practicando.
+- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-6)
+- **Consejos clave**: Revisar etiquetas cerradas, nombres de archivos, enlaces de imágenes y propiedades CSS.
+- **Actividad final**: [Revisar y mejorar tu página](https://codepen.io/pen/)
+
+---
+
+## Recursos Adicionales
+
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/meditrack-web-app-1asi0730-2610-12263/webdev-course-meditrack)
+- **Carpeta de archivos iniciales**: [`/starter-files`](./starter-files)
+- **Carpeta de ejemplos completos**: [`/completed-examples`](./completed-examples)
+- **Carpeta de guiones de video**: [`/scripts`](./scripts)
+
+---
+
+## Actividades Prácticas
+
+| Lección | Actividad | Herramienta online |
+|---|---|---|
+| 1 | Reconocer las partes de un sitio web | [CodePen](https://codepen.io/pen/) |
+| 2 | Crear la primera estructura HTML | [CodePen](https://codepen.io/pen/) |
+| 3 | Agregar listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/) |
+| 4 | Aplicar colores, fuentes y bordes | [CodePen](https://codepen.io/pen/) |
+| 5 | Crear una página de perfil personal | [Replit](https://replit.com/) |
+| 6 | Corregir errores comunes y mejorar el proyecto | [CodePen](https://codepen.io/pen/) |
+
+---
+
+## Estructura del Repositorio
 
 ```text
 webdev-course-meditrack/
+│
 ├── README.md
-├── course-plan.md
 ├── starter-files/
+│   ├── lesson-01/
+│   ├── lesson-02/
+│   ├── lesson-03/
+│   ├── lesson-04/
+│   ├── lesson-05/
+│   └── lesson-06/
+│
 ├── completed-examples/
+│   ├── lesson-01/
+│   ├── lesson-02/
+│   ├── lesson-03/
+│   ├── lesson-04/
+│   ├── lesson-05/
+│   └── lesson-06/
+│
 ├── scripts/
+│   ├── lesson-01-script.md
+│   ├── lesson-02-script.md
+│   ├── lesson-03-script.md
+│   ├── lesson-04-script.md
+│   ├── lesson-05-script.md
+│   └── lesson-06-script.md
+│
 └── assets/
+    └── images/
 ```
 
-## Cómo usar este material
+---
 
-1. Abrir la carpeta `starter-files` para iniciar cada práctica.
-2. Copiar el código en CodePen, JSFiddle o Replit.
-3. Seguir el guion de cada video dentro de la carpeta `scripts`.
-4. Comparar el resultado con la carpeta `completed-examples`.
+## Instrucciones de Uso
 
-## Actividades prácticas
+1. Abrir el repositorio del curso.
+2. Revisar la secuencia de lecciones.
+3. Ver cada video en el orden indicado.
+4. Abrir la práctica correspondiente en CodePen, JSFiddle o Replit.
+5. Comparar el avance con los ejemplos completos.
+6. Completar el proyecto final de página web personal.
 
-| Lección | Archivo inicial | Ejemplo terminado |
+No es necesario instalar software adicional. El estudiante solo necesita un navegador web y conexión a internet.
+
+---
+
+## Resultados de Aprendizaje
+
+Al finalizar el curso, el estudiante podrá:
+
+- Reconocer la función principal de HTML y CSS en una página web.
+- Crear una estructura básica usando etiquetas HTML.
+- Agregar contenido mediante encabezados, párrafos, listas, imágenes y enlaces.
+- Aplicar estilos simples usando selectores y propiedades CSS.
+- Construir una página web personal básica.
+- Identificar errores comunes al escribir código HTML y CSS.
+
+---
+
+## Resumen de Elaboración en Equipo
+
+El curso fue elaborado de forma colaborativa por cinco integrantes. Cada miembro asumió una responsabilidad específica relacionada con la planificación, creación de contenido, preparación de ejemplos, grabación de videos y revisión final del material.
+
+| Integrante | Responsabilidad principal | Evidencia esperada |
 |---|---|---|
-| 1 | `starter-files/lesson-01/index.html` | `completed-examples/lesson-01/index.html` |
-| 2 | `starter-files/lesson-02/index.html` | `completed-examples/lesson-02/index.html` |
-| 3 | `starter-files/lesson-03/index.html` | `completed-examples/lesson-03/index.html` |
-| 4 | `starter-files/lesson-04/index.html` | `completed-examples/lesson-04/index.html` |
-| 5 | `starter-files/lesson-05/index.html` | `completed-examples/lesson-05/index.html` |
-| 6 | `starter-files/lesson-06/checklist.md` | `completed-examples/lesson-06/common-mistakes.md` |
+| Integrante 1 | Coordinación general, README y estructura del repositorio | Commits en documentación y organización |
+| Integrante 2 | Lecciones sobre introducción web y HTML básico | Guion, video y archivos iniciales |
+| Integrante 3 | Lección sobre elementos HTML comunes | Ejemplos de listas, imágenes y enlaces |
+| Integrante 4 | Lección sobre CSS y estilos básicos | Ejemplos de colores, fuentes y bordes |
+| Integrante 5 | Proyecto final, edición y revisión del curso | Video final, ejemplos completos y enlaces |
 
-## Estado de enlaces
+---
 
-Reemplazar los enlaces de ejemplo por los enlaces finales de YouTube y editores en línea cuando estén publicados.
+## Elaboración
+
+Universidad Peruana de Ciencias Aplicadas  
+Carrera de Ingeniería de Software  
+Período 202610  
+Curso: 1ASI0730 Aplicaciones Web  
+NRC: 12263  
+
+**Nombre del equipo**: Meditrack  
+**Repositorio**: [webdev-course-meditrack](https://github.com/meditrack-web-app-1asi0730-2610-12263/webdev-course-meditrack)  
+**Líder del equipo**: [Nombres y Apellidos del líder]  
+
+**Integrantes del equipo**:
+
+- [Integrante 1]
+- [Integrante 2]
+- [Integrante 3]
+- [Integrante 4]
+- [Integrante 5]
+
+**Fecha de entrega**: [Fecha de entrega]
+
+---
+
+## Estado del Proyecto
+
+| Elemento | Estado |
+|---|---|
+| Repositorio público en GitHub | En progreso |
+| README.md | Completo |
+| Archivos iniciales | Pendiente |
+| Ejemplos completos | Pendiente |
+| Guiones de video | Pendiente |
+| Enlaces de YouTube | Pendiente |
+| Enlaces de prácticas online | Pendiente |
+
+---
+
+## Nota
+
+Los enlaces de YouTube, CodePen, JSFiddle y Replit son referenciales. Antes de la entrega final, deben ser reemplazados por los enlaces reales generados por el equipo.
