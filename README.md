@@ -34,9 +34,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
 - **Descripción**: Muestra cómo agregar encabezados, párrafos, listas, imágenes y enlaces.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-3)
+- **Enlace**: [Ver lección](https://youtu.be/IMJtnCxR5eg)
 - **Consejos clave**: Las etiquetas HTML permiten organizar el contenido y agregar elementos interactivos básicos.
-- **Práctica**: [Practicar elementos HTML](https://jsfiddle.net/)
+- **Práctica**: [Practicar elementos HTML](https://codepen.io/dakuma-ai/pen/vEggwOJ)
 
 ### Lección 4: Introducción a CSS (12 minutos)
 
@@ -76,7 +76,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 |---|---|---|
 | 1 | Reconocer las partes de un sitio web | [CodePen](https://codepen.io/pen/) |
 | 2 | Crear la primera estructura HTML | [CodePen](https://codepen.io/pen/) |
-| 3 | Agregar listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/) |
+| 3 | Agregar listas, imágenes y enlaces | [CodePen](https://codepen.io/pen/) |
 | 4 | Aplicar colores, fuentes y bordes | [CodePen](https://codepen.io/pen/) |
 | 5 | Crear una página de perfil personal | [Replit](https://replit.com/) |
 | 6 | Corregir errores comunes y mejorar el proyecto | [CodePen](https://codepen.io/pen/) |
@@ -153,7 +153,7 @@ El curso fue elaborado de forma colaborativa por cinco integrantes. Cada miembro
 |---|---|---|
 | Integrante 1 | Coordinación general, README y estructura del repositorio | Commits en documentación y organización |
 | Integrante 2 | Lecciones sobre introducción web y HTML básico | Guion, video y archivos iniciales |
-| Integrante 3 | Lección sobre elementos HTML comunes | Ejemplos de listas, imágenes y enlaces |
+| Camila Asunción Reyes Menacho | Lección sobre elementos HTML comunes | Ejemplos de listas, imágenes y enlaces |
 | Integrante 4 | Lección sobre CSS y estilos básicos | Ejemplos de colores, fuentes y bordes |
 | Integrante 5 | Proyecto final, edición y revisión del curso | Video final, ejemplos completos y enlaces |
 
@@ -175,7 +175,7 @@ NRC: 12263
 
 - [Integrante 1]
 - [Integrante 2]
-- [Integrante 3]
+- [Camila Asunción Reyes Menacho]
 - [Integrante 4]
 - [Integrante 5]
 
