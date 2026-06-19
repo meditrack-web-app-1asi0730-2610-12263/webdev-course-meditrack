@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.profile-card {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 24px;
+}
