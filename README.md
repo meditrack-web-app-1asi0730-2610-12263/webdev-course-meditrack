@@ -45,7 +45,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 - **Consejos clave**: CSS permite modificar la apariencia visual de una página web.
 - **Práctica**: [Aplicar estilos con CSS](https://codepen.io/pen/)
 
-### Lección 5: Creación de una página web personal (15 minutos)
+### Lección 5: Creación de una página web personal (6 minutos)
 
 - **Descripción**: Integra HTML y CSS para construir una página de perfil personal con nombre, descripción, imagen, intereses y enlaces.
 - **Enlace**: [Ver lección](https://youtu.be/5mpAlzYGW6A)
