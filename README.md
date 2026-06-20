@@ -27,9 +27,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos del desarroll
 ### Lección 2: Estructura básica de HTML (10 minutos)
 
 - **Descripción**: Explica la estructura básica de una página HTML y el uso de etiquetas principales.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=example-link-2)
+- **Enlace**: [Ver lección](https://youtu.be/chLGs0sE3r8)
 - **Consejos clave**: Una página HTML se organiza con etiquetas como `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
-- **Práctica**: [Crear primera página HTML](https://codepen.io/pen/)
+- **Práctica**: [Crear primera página HTML](https://codepen.io/sephi-dev05/pen/ZYWQVQm)
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
@@ -145,20 +145,6 @@ Al finalizar el curso, el estudiante podrá:
 
 ---
 
-## Resumen de Elaboración en Equipo
-
-El curso fue elaborado de forma colaborativa por cinco integrantes. Cada miembro asumió una responsabilidad específica relacionada con la planificación, creación de contenido, preparación de ejemplos, grabación de videos y revisión final del material.
-
-| Integrante | Responsabilidad principal | Evidencia esperada |
-|---|---|---|
-| Integrante 1 | Coordinación general, README y estructura del repositorio | Commits en documentación y organización |
-| Integrante 2 | Lecciones sobre introducción web y HTML básico | Guion, video y archivos iniciales |
-| Camila Asunción Reyes Menacho | Lección sobre elementos HTML comunes | Ejemplos de listas, imágenes y enlaces |
-| Integrante 4 | Lección sobre CSS y estilos básicos | Ejemplos de colores, fuentes y bordes |
-| Integrante 5 | Proyecto final, edición y revisión del curso | Video final, ejemplos completos y enlaces |
-
----
-
 ## Elaboración
 
 Universidad Peruana de Ciencias Aplicadas  
@@ -169,17 +155,15 @@ NRC: 12263
 
 **Nombre del equipo**: Meditrack  
 **Repositorio**: [webdev-course-meditrack](https://github.com/meditrack-web-app-1asi0730-2610-12263/webdev-course-meditrack)  
-**Líder del equipo**: [Nombres y Apellidos del líder]  
+**Líder del equipo**: Carlos Lavado, Ever Giusephi
 
 **Integrantes del equipo**:
 
-- [Integrante 1]
-- [Integrante 2]
-- [Camila Asunción Reyes Menacho]
-- [Integrante 4]
-- [Integrante 5]
-
-**Fecha de entrega**: [Fecha de entrega]
+- Carlos Lavado, Ever Giusephi
+- Montes Maza, Augusto Sebastian
+- Arizabal Condori, Jean Niels
+- Reyes Menacho, Camila Asuncion
+- Orosco Ttamiña, Juan Carlos
 
 ---
 
@@ -194,9 +178,3 @@ NRC: 12263
 | Guiones de video | Pendiente |
 | Enlaces de YouTube | Pendiente |
 | Enlaces de prácticas online | Pendiente |
-
----
-
-## Nota
-
-Los enlaces de YouTube, CodePen, JSFiddle y Replit son referenciales. Antes de la entrega final, deben ser reemplazados por los enlaces reales generados por el equipo.
